@@ -1,2 +1,2 @@
-# let-scode
-Estudando sobre lógica de programação utilizando JavaScript e react.
+# Curso de React
+Aprendendo na prática sobre react  através das aulas da let's code
